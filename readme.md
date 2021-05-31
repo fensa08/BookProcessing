@@ -10,8 +10,8 @@ navigate to ../src/  directory
 
 using cmd, type:
 
-`java Main`
-
-
+```bash
+java Main
+```
 
 And Voila!
